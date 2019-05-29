@@ -126,7 +126,7 @@ msgstr "Frames:"
 
 #: ./green-recorder:410
 msgid "Delay:"
-msgstr Ritardo:""
+msgstr Ritardo:"
 
 #: ./green-recorder:411
 msgid "Run Command After Recording:"
